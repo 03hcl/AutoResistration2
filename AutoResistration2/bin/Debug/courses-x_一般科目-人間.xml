@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCourse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>73B00.823</Id>
+    <DayOfWeek>Tuesday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>48</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;一般科目/人間&amp;nbsp;&lt;font class='font-en'&gt;General Subjects; Human&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>クリティカル・シンキング［Critical Thinking］</SyllabusTitle>
+    <IsCityCollege>true</IsCityCollege>
+    <SyllabusInstructor>久保田　進一 [KUBOTA, Shin-ichi]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory>人間</SyllabusCategory>
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>全学生</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>true</OffersInQ4>
+    <SyllabusKeyword>論理　英文解釈　日本語力　思考力　読解力　批判力</SyllabusKeyword>
+    <SyllabusTopic>本授業では、日本語の文章を詳細に検討することにより、隠された前提、論理の飛躍を見出す。また、一見、難解に見える英語の文章において、貫徹する論理や構文を見出すことにより、文章を正確に理解する。7回のレッスンでは、論理の矛盾、文章の構造を徹底的に考え抜くことで、受講生が思考力・読解力・批判力を伸ばすトレーニングを実践する。</SyllabusTopic>
+    <SyllabusObjective>1）論理によって、文章の間違いを見出す。
+2）英語を構文によって、解釈できる。
+3）批判的な読書態度を身につける。</SyllabusObjective>
+    <SyllabusLearningOutcomes>1）文章を批判的に読むことの大切さを学ぶ。
+2）単語や文法以前に、英語は論理であることを学ぶ。
+3）無自覚な前提や論理のすり替えに敏感になる。</SyllabusLearningOutcomes>
+    <SyllabusOutline>第1回 オリエンテーション   授業の内容
+第2回～第7回 毎回、日本語の文章による論理トレーニングと英文解釈の実践を行う。教材は、教室内で配布する。
+第8回  まとめ
+
+担当者によって、授業の形は変わる。</SyllabusOutline>
+    <SyllabusGradingMethod>期末試験</SyllabusGradingMethod>
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;100&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;欠席によって減点する可能性がある。&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>教材は、授業で配布する。
+
+参考文献
+
+特になし。</SyllabusTeachingMaterials>
+    <SyllabusOthers>講義の半分は、英文解釈に当てられるが、特に、高い英語力を必要とはしない。論理のトレーニングをするには、とにかく、考え抜くことが大切である。インターネットの発達で、情報を得ることは簡単になっているが、情報が正しいかどうかについては、日頃から、批判的精神を鍛えておく必要がある。</SyllabusOthers>
+    <SyllabusConsultationTime />
+    <SyllabusMethodForAdjustingClassSize>特になし/None</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote>シティカレッジ機関開講</SyllabusSpecialNote>
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>73B00.723</Id>
+    <DayOfWeek>Tuesday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>48</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;一般科目/人間&amp;nbsp;&lt;font class='font-en'&gt;General Subjects; Human&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>クリティカル・シンキング［Critical Thinking］</SyllabusTitle>
+    <IsCityCollege>true</IsCityCollege>
+    <SyllabusInstructor>久保田　進一 [KUBOTA, Shin-ichi]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory>人間</SyllabusCategory>
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>全学生</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>true</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>論理　英文解釈　日本語力　思考力　読解力　批判力</SyllabusKeyword>
+    <SyllabusTopic>本授業では、日本語の文章を詳細に検討することにより、隠された前提、論理の飛躍を見出す。また、一見、難解に見える英語の文章において、貫徹する論理や構文を見出すことにより、文章を正確に理解する。7回のレッスンでは、論理の矛盾、文章の構造を徹底的に考え抜くことで、受講生が思考力・読解力・批判力を伸ばすトレーニングを実践する。</SyllabusTopic>
+    <SyllabusObjective>1）論理によって、文章の間違いを見出す。
+2）英語を構文によって、解釈できる。
+3）批判的な読書態度を身につける。</SyllabusObjective>
+    <SyllabusLearningOutcomes>1）文章を批判的に読むことの大切さを学ぶ。
+2）単語や文法以前に、英語は論理であることを学ぶ。
+3）無自覚な前提や論理のすり替えに敏感になる。</SyllabusLearningOutcomes>
+    <SyllabusOutline>第1回 オリエンテーション   授業の内容
+第2回～第7回 毎回、日本語の文章による論理トレーニングと英文解釈の実践を行う。教材は、教室内で配布する。
+第8回  まとめ
+
+担当者によって、授業の形は変わる。</SyllabusOutline>
+    <SyllabusGradingMethod>期末試験</SyllabusGradingMethod>
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;100&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;欠席によって減点する可能性がある。&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>教材は、授業で配布する。
+
+参考文献
+
+特になし。</SyllabusTeachingMaterials>
+    <SyllabusOthers>講義の半分は、英文解釈に当てられるが、特に、高い英語力を必要とはしない。論理のトレーニングをするには、とにかく、考え抜くことが大切である。インターネットの発達で、情報を得ることは簡単になっているが、情報が正しいかどうかについては、日頃から、批判的精神を鍛えておく必要がある。</SyllabusOthers>
+    <SyllabusConsultationTime />
+    <SyllabusMethodForAdjustingClassSize>特になし/None</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote>シティカレッジ機関開講</SyllabusSpecialNote>
+  </Course>
+</ArrayOfCourse>

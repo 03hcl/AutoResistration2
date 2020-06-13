@@ -1,0 +1,186 @@
+﻿<Window x:Class="Kntacooh.AutoCourseRegistration.ConfigWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kntacooh.AutoCourseRegistration"
+        mc:Ignorable="d"
+        Title="設定" Height="300" Width="300" Closing="Window_Closing">
+
+    <TabControl>
+
+        <TabItem Header="オプション">
+            
+            <StackPanel>
+
+                <DockPanel Margin="0,6,0,0">
+                    <Label Content="クォーター指定" DockPanel.Dock="Left" />
+                    <TextBox x:Name="QuarterText" Width="20" DockPanel.Dock="Right" Padding="4" VerticalAlignment="Center"
+                                    TextAlignment="Right" HorizontalAlignment="Right" />
+                    <Label Content="Q" HorizontalAlignment="Right"/>
+                </DockPanel>
+
+                <DockPanel>
+                    <Label Content="自動実行間隔(秒)" DockPanel.Dock="Left"/>
+                    <TextBox x:Name="IntervalText" Width="100" HorizontalAlignment="Right" Padding="4" VerticalAlignment="Center"
+                            Text="{Binding Path=Interval}" TextAlignment="Right"/>
+                </DockPanel>
+
+                <Button x:Name="UpdateButton" Content="更新/追加の反映" Click="UpdateButton_Click" />
+
+                <DockPanel Margin="0,6,0,0">
+                    <Label Content="ログ表示行数" DockPanel.Dock="Left"/>
+                    <TextBox x:Name="LogMaxRowText" Width="100" HorizontalAlignment="Right" Padding="4" VerticalAlignment="Center"
+                            Text="{Binding Path=LogMaxRow}" TextAlignment="Right"/>
+                </DockPanel>
+
+                <DockPanel>
+                    <Label Content="既定の行高" DockPanel.Dock="Left"/>
+                    <TextBox x:Name="CourseHeightText" Width="100" HorizontalAlignment="Right" Padding="4" VerticalAlignment="Center"
+                            Text="{Binding Path=CourseHeight}" TextAlignment="Right"/>
+                </DockPanel>
+
+                <Label Margin="0,6,0,0" Content="バックアップファイルのパス"/>
+                <TextBox x:Name="BackupFilePath" HorizontalAlignment="Stretch" Padding="4" VerticalAlignment="Center"/>
+                
+            </StackPanel>
+
+        </TabItem>
+
+        <TabItem Header="ポータル">
+            
+            <StackPanel>
+
+                <Grid>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                
+                    <Label Grid.Row="0" Grid.Column="0" Content="金沢大学ID" />
+                    <TextBox Grid.Row="0" Grid.Column="1" x:Name="UserID"
+                             Padding="4" VerticalAlignment="Center" Visibility="Collapsed" />
+                    <PasswordBox Grid.Row="0" Grid.Column="1" x:Name="UnvisibleUserID"
+                                 Padding="4" VerticalAlignment="Center" Visibility="Collapsed" PasswordChar="*" />
+                    <!--<TextBox x:Name="UserID" Padding="4" VerticalAlignment="Center" Text="{Binding Path=TextUserID}" />-->
+                    <!--Text="{Binding ElementName=UserID2, Path=Password}" Width="100"/>-->
+                    <Label Grid.Row="1" Grid.Column="0" Content="パスワード" HorizontalAlignment="Left" />
+                    <PasswordBox Grid.Row="1" Grid.Column="1" x:Name="UserPassword"
+                                 Padding="4" VerticalAlignment="Center" PasswordChar="*" />
+                    <!--<TextBox x:Name="UserPassword" />-->
+
+                </Grid>
+
+                <Grid>
+                
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                
+                    <Button Grid.Column="0" Content="ログイン" Click="LogOnButton_Click"/>
+                    <Button Grid.Column="1" Content="ログアウト" Click="LogOffButton_Click"/>
+
+                </Grid>
+
+                <CheckBox Margin="0,6,0,0"
+                            Content="金沢大学IDの入力を隠す" IsChecked="{Binding Path=IsHidenUserId}" />
+
+            </StackPanel>
+            
+        </TabItem>
+
+        <TabItem Header="シラバス">
+
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Row="0" Grid.Column="0" Content="学域/学部等" />
+                <ComboBox Grid.Row="0" Grid.Column="1" x:Name="GakuikiComboBox"
+                            VerticalAlignment="Center" ItemsSource="{Binding}"
+                            SelectedValuePath="Key" DisplayMemberPath="JPValue" SelectionChanged="GakuikiComboBox_SelectionChanged" />
+                <Label Grid.Row="1" Grid.Column="0" Content="学類/学科等" />
+                <ComboBox Grid.Row="1" Grid.Column="1" x:Name="GakuruiComboBox"
+                            VerticalAlignment="Center" ItemsSource="{Binding}" IsEnabled="False"
+                            SelectedValuePath="Key" DisplayMemberPath="JPValue" />
+                <Label Grid.Row="2" Grid.Column="0" Content="学年" />
+                <ComboBox Grid.Row="2" Grid.Column="1" x:Name="StudentYearComboBox"
+                            VerticalAlignment="Center" ItemsSource="{Binding}" IsEnabled="False"
+                            SelectedValuePath="Key" DisplayMemberPath="JPValue" />
+                <Label Grid.Row="3" Grid.Column="0" Content="科目名検索" />
+                <TextBox Grid.Row="3" Grid.Column="1" Padding="4" x:Name="TitlesText" />
+                <CheckBox Grid.Row="4" Grid.ColumnSpan="2" x:Name="IsReadAllSyllabusData"
+                            Margin="6,6,6,0" Content="全ての検索結果を読み込む" />
+                
+            </Grid>
+
+        </TabItem>
+
+        <TabItem Header="列表示設定">
+
+            <ListView x:Name="CourseColumnVisiblityListView">
+
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                    </Style>
+                </ListView.ItemContainerStyle>
+
+                <ListView.View>
+
+                    <GridView x:Name="VisiblityGridView">
+
+                        <GridViewColumn Header="Visible">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <CheckBox HorizontalAlignment="Center" VerticalAlignment="Center"
+                                              Checked="ColumnVisibled" Unchecked="ColumnUnvisibled" />
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        
+                        <GridViewColumn Header="項目名">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Path=Header}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        
+                    </GridView>
+                    
+                </ListView.View>
+
+            </ListView>
+            
+            <!--<ScrollViewer Grid.Row="1" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+                
+                <StackPanel x:Name="GridViewColumnVisiblityList" Margin="0,6,0,0" >
+
+                </StackPanel>
+                
+            </ScrollViewer>-->
+
+        </TabItem>
+        
+    </TabControl>
+
+</Window>

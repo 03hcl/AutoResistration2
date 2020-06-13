@@ -1,0 +1,265 @@
+﻿<Window x:Class="Kntacooh.AutoCourseRegistration.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kntacooh.AutoCourseRegistration"
+        mc:Ignorable="d"
+        Title="DetailWindow" Height="600" Width="720" Closing="Window_Closing">
+
+    <Window.Resources>
+
+        <local:DayOfWeekToShortTextConverter x:Key="DayOfWeekConverter" />
+        <local:NullableBooleanToMarkConverter x:Key="NullableBooleanToMarkConverter" />
+        <local:NullableLectureFormToStringConverter x:Key="NullableLectureFormConverter" />
+        <local:ReadOnlyStringCollectionConverter x:Key="ReadOnlyStringCollectionConverter" />
+        <local:ReadOnlyGradingRateCollectionConverter x:Key="GradingRateConverter" />
+
+    </Window.Resources>
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <ScrollViewer Grid.Row="0" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Row="0" Grid.Column="0" Content="分類(JP)" />
+                <Label Grid.Row="0" Grid.Column="1" Content="{Binding Path=JPSyllabusSchoolOrDivision}" />
+                <Label Grid.Row="1" Grid.Column="0" Content="分類(EN)" />
+                <Label Grid.Row="1" Grid.Column="1" Content="{Binding Path=ENSyllabusSchoolOrDivision}" />
+                <Label Grid.Row="2" Grid.Column="0" Content="授業科目名(JP)" />
+                <Label Grid.Row="2" Grid.Column="1" Content="{Binding Path=JPSyllabusTitle}" />
+                <Label Grid.Row="3" Grid.Column="0" Content="授業科目名(EN)" />
+                <Label Grid.Row="3" Grid.Column="1" Content="{Binding Path=ENSyllabusTitle}" />
+                <Label Grid.Row="4" Grid.Column="0" Content="CityCollege" />
+                <Label Grid.Row="4" Grid.Column="1" Content="{Binding Path=IsCityCollege, Converter={StaticResource NullableBooleanToMarkConverter}}" />
+                <Label Grid.Row="5" Grid.Column="0" Content="担当教員名(JP)" />
+                <Label Grid.Row="5" Grid.Column="1" Content="{Binding Path=JPSyllabusInstructors, Converter={StaticResource ReadOnlyStringCollectionConverter}}" />
+                <Label Grid.Row="6" Grid.Column="0" Content="担当教員名(EN)" />
+                <Label Grid.Row="6" Grid.Column="1" Content="{Binding Path=ENSyllabusInstructors, Converter={StaticResource ReadOnlyStringCollectionConverter}}" />
+                <Label Grid.Row="7" Grid.Column="0" Content="科目ナンバー" />
+                <Label Grid.Row="7" Grid.Column="1" Content="{Binding Path=SyllabusNumberingCode}" />
+                <Label Grid.Row="8" Grid.Column="0" Content="時間割番号" />
+                <Label Grid.Row="8" Grid.Column="1" Content="{Binding Path=Id}" />
+                <Label Grid.Row="9" Grid.Column="0" Content="科目区分" />
+                <Label Grid.Row="9" Grid.Column="1" Content="{Binding Path=SyllabusCategory}" />
+                <Label Grid.Row="10" Grid.Column="0" Content="講義形態" />
+                <Label Grid.Row="10" Grid.Column="1" Content="{Binding Path=SyllabusLectureForm, Converter={StaticResource NullableLectureFormConverter}}" />
+                <Label Grid.Row="11" Grid.Column="0" Content="対象学生" />
+                <Label Grid.Row="11" Grid.Column="1" Content="{Binding Path=SyllabusAssignedYear}" />
+                <Label Grid.Row="12" Grid.Column="0" Content="適正人数" />
+                <Label Grid.Row="12" Grid.Column="1" Content="{Binding Path=MaxSize}" />
+                <Label Grid.Row="13" Grid.Column="0" Content="Q1" />
+                <Label Grid.Row="13" Grid.Column="1" Content="{Binding Path=OffersInQ1, Converter={StaticResource NullableBooleanToMarkConverter}}" />
+                <Label Grid.Row="14" Grid.Column="0" Content="Q2" />
+                <Label Grid.Row="14" Grid.Column="1" Content="{Binding Path=OffersInQ2, Converter={StaticResource NullableBooleanToMarkConverter}}" />
+                <Label Grid.Row="15" Grid.Column="0" Content="Q3" />
+                <Label Grid.Row="15" Grid.Column="1" Content="{Binding Path=OffersInQ3, Converter={StaticResource NullableBooleanToMarkConverter}}" />
+                <Label Grid.Row="16" Grid.Column="0" Content="Q4" />
+                <Label Grid.Row="16" Grid.Column="1" Content="{Binding Path=OffersInQ4, Converter={StaticResource NullableBooleanToMarkConverter}}" />
+                <Label Grid.Row="17" Grid.Column="0" Content="キーワード(JP)" />
+                <Label Grid.Row="17" Grid.Column="1" Content="{Binding Path=JPSyllabusKeywords, Converter={StaticResource ReadOnlyStringCollectionConverter}}" />
+                <Label Grid.Row="18" Grid.Column="0" Content="キーワード(EN)" />
+                <Label Grid.Row="18" Grid.Column="1" Content="{Binding Path=ENSyllabusKeywords, Converter={StaticResource ReadOnlyStringCollectionConverter}}" />
+                <Label Grid.Row="19" Grid.Column="0" Content="評価の割合" />
+                <Label Grid.Row="19" Grid.Column="1" Content="{Binding Path=SyllabusGradingRateDetails, Converter={StaticResource GradingRateConverter}}" />
+                <!--<Label Grid.Row="0" Grid.Column="0" Content="" />
+                <Label Grid.Row="0" Grid.Column="1" Content="{Binding Path=}" />-->
+                <!--<Label Grid.Row="" Grid.Column="0" Content="" />-->
+            </Grid>
+
+        </ScrollViewer>
+
+        <GridSplitter Grid.Row="1" Height="6" HorizontalAlignment="Stretch" />
+
+        <ScrollViewer Grid.Row="2" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Row="0" Grid.Column="0" Content="登録番号" />
+                <Label Grid.Row="0" Grid.Column="1" Content="{Binding Path=RegisterNumber}" />
+                <Label Grid.Row="1" Grid.Column="0" Content="時間割番号" />
+                <Label Grid.Row="1" Grid.Column="1" Content="{Binding Path=Id}" />
+                <Label Grid.Row="2" Grid.Column="0" Content="種類(JP)" />
+                <Label Grid.Row="2" Grid.Column="1" Content="{Binding Path=JPSubjectType}" />
+                <Label Grid.Row="3" Grid.Column="0" Content="種類(EN)" />
+                <Label Grid.Row="3" Grid.Column="1" Content="{Binding Path=ENSubjectType}" />
+                <Label Grid.Row="4" Grid.Column="0" Content="GS群" />
+                <Label Grid.Row="4" Grid.Column="1" Content="{Binding Path=KugsOfGS}" />
+                <Label Grid.Row="5" Grid.Column="0" Content="GS_2" />
+                <Label Grid.Row="5" Grid.Column="1" Content="{Binding Path=SignOfGS}" />
+                <Label Grid.Row="6" Grid.Column="0" Content="GS_3" />
+                <Label Grid.Row="6" Grid.Column="1" Content="{Binding Path=SignDetailOfGS}" />
+                <Label Grid.Row="7" Grid.Column="0" Content="時間割名" />
+                <Label Grid.Row="7" Grid.Column="1" Content="{Binding Path=Title}" />
+                <Label Grid.Row="8" Grid.Column="0" Content="担当教員" />
+                <Label Grid.Row="8" Grid.Column="1" Content="{Binding Path=Instructor}" />
+                <Label Grid.Row="9" Grid.Column="0" Content="曜日" />
+                <Label Grid.Row="9" Grid.Column="1" Content="{Binding Path=DayOfWeek, Converter={StaticResource DayOfWeekConverter}}" />
+                <Label Grid.Row="10" Grid.Column="0" Content="時限" />
+                <Label Grid.Row="10" Grid.Column="1" Content="{Binding Path=Period}" />
+                <Label Grid.Row="11" Grid.Column="0" Content="適正人数" />
+                <Label Grid.Row="11" Grid.Column="1" Content="{Binding Path=MaxSize}" />
+                <Label Grid.Row="12" Grid.Column="0" Content="登録者数" />
+                <Label Grid.Row="12" Grid.Column="1" Content="{Binding Path=RegisteredSize}" />
+                <Label Grid.Row="13" Grid.Column="0" Content="残枠" />
+                <Label Grid.Row="13" Grid.Column="1" Content="{Binding Path=RestSize}" />
+                <Label Grid.Row="14" Grid.Column="0" Content="抽選対象" />
+                <Label Grid.Row="14" Grid.Column="1" Content="{Binding Path=IsDoneLottery}" />
+                <Label Grid.Row="15" Grid.Column="0" Content="単位数" />
+                <Label Grid.Row="15" Grid.Column="1" Content="{Binding Path=Credit}" />
+                <Label Grid.Row="16" Grid.Column="0" Content="開講単位" />
+                <Label Grid.Row="16" Grid.Column="1" Content="{Binding Path=UnitType}" />
+                <Label Grid.Row="17" Grid.Column="0" Content="Q換算単位" />
+                <Label Grid.Row="17" Grid.Column="1" Content="{Binding Path=CreditPerQuarter}" />
+                <!--<Label Grid.Row="0" Grid.Column="0" Content="" />
+                <Label Grid.Row="0" Grid.Column="1" Content="{Binding Path=}" />-->
+
+            </Grid>
+
+        </ScrollViewer>
+
+        <GridSplitter Grid.Row="3" Height="6" HorizontalAlignment="Stretch" />
+
+        <ScrollViewer Grid.Row="4" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <!--<Label Grid.Row="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" Content="Rawデータ" />-->
+                <Label Grid.Row="0" Grid.Column="0" Content="授業科目名" />
+                <Label Grid.Row="0" Grid.Column="1" Content="{Binding Path=SyllabusTitle}" />
+                <Label Grid.Row="1" Grid.Column="0" Content="担当教員名" />
+                <Label Grid.Row="1" Grid.Column="1" Content="{Binding Path=SyllabusInstructor}" />
+                <Label Grid.Row="2" Grid.Column="0" Content="キーワード" />
+                <Label Grid.Row="2" Grid.Column="1" Content="{Binding Path=SyllabusKeyword}" />
+                <Label Grid.Row="3" Grid.Column="0" Content="授業の主題" />
+                <Label Grid.Row="3" Grid.Column="1" Content="{Binding Path=SyllabusTopic}" />
+                <Label Grid.Row="4" Grid.Column="0" Content="授業の目標" />
+                <Label Grid.Row="4" Grid.Column="1" Content="{Binding Path=SyllabusObjective}" />
+                <Label Grid.Row="5" Grid.Column="0" Content="学生の学習目標" />
+                <Label Grid.Row="5" Grid.Column="1" Content="{Binding Path=SyllabusLearningOutcomes}" />
+                <Label Grid.Row="6" Grid.Column="0" Content="授業の概要" />
+                <Label Grid.Row="6" Grid.Column="1" Content="{Binding Path=SyllabusOutline}" />
+                <Label Grid.Row="7" Grid.Column="0" Content="講義スケジュール" />
+                <Label Grid.Row="7" Grid.Column="1" Content="{Binding Path=SyllabusSchedule}" />
+                <Label Grid.Row="8" Grid.Column="0" Content="評価の方法" />
+                <Label Grid.Row="8" Grid.Column="1" Content="{Binding Path=SyllabusGradingMethod}" />
+                <Label Grid.Row="9" Grid.Column="0" Content="評価の割合" />
+                <Label Grid.Row="9" Grid.Column="1" Content="{Binding Path=SyllabusGradingRate}" />
+                <Label Grid.Row="10" Grid.Column="0" Content="テキスト/教材/参考書" />
+                <Label Grid.Row="10" Grid.Column="1" Content="{Binding Path=SyllabusTeachingMaterials}" />
+                <Label Grid.Row="11" Grid.Column="0" Content="その他注意事項" />
+                <Label Grid.Row="11" Grid.Column="1" Content="{Binding Path=SyllabusOthers}" />
+                <Label Grid.Row="12" Grid.Column="0" Content="オフィスアワー" />
+                <Label Grid.Row="12" Grid.Column="1" Content="{Binding Path=SyllabusConsultationTime}" />
+                <Label Grid.Row="13" Grid.Column="0" Content="履修条件" />
+                <Label Grid.Row="13" Grid.Column="1" Content="{Binding Path=SyllabusSyllabusPrerequisites}" />
+                <Label Grid.Row="14" Grid.Column="0" Content="受講者数調整" />
+                <Label Grid.Row="14" Grid.Column="1" Content="{Binding Path=SyllabusMethodForAdjustingClassSize}" />
+                <Label Grid.Row="15" Grid.Column="0" Content="開放科目" />
+                <Label Grid.Row="15" Grid.Column="1" Content="{Binding Path=SyllabusSubjectOfOpen}" />
+                <Label Grid.Row="16" Grid.Column="0" Content="関連科目" />
+                <Label Grid.Row="16" Grid.Column="1" Content="{Binding Path=SyllabusRelatedCourses}" />
+                <Label Grid.Row="17" Grid.Column="0" Content="位置づけ" />
+                <Label Grid.Row="17" Grid.Column="1" Content="{Binding Path=SyllabusRelationsWithTheOtherCoursesInTheCurriculum}" />
+                <Label Grid.Row="18" Grid.Column="0" Content="特記事項" />
+                <Label Grid.Row="18" Grid.Column="1" Content="{Binding Path=SyllabusSpecialNote}" />
+                <!--<Label Grid.Row="0" Grid.Column="0" Content="" />
+                <Label Grid.Row="0" Grid.Column="1" Content="{Binding Path=}" />-->
+
+            </Grid>
+
+        </ScrollViewer>
+    
+    </Grid>
+    
+</Window>

@@ -1,0 +1,501 @@
+﻿<Window x:Class="Kntacooh.AutoCourseRegistration.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kntacooh.AutoCourseRegistration"
+        mc:Ignorable="d"
+        Title="履修登録管理ツールかっこかり" Height="600" Width="1200" Unloaded="Window_Unloaded" Loaded="Window_Loaded" Activated="Window_Activated">
+
+    <Window.Resources>
+
+        <local:ViewIndexConverter x:Key="ViewIndexConverter" />
+        <local:DayOfWeekToShortTextConverter x:Key="DayOfWeekConverter" />
+        <local:NullableBooleanToMarkConverter x:Key="NullableBooleanToMarkConverter" />
+        <local:NullableLectureFormToStringConverter x:Key="NullableLectureFormConverter" />
+        <local:ReadOnlyStringCollectionConverter x:Key="ReadOnlyStringCollectionConverter" />
+        <local:ReadOnlyGradingRateCollectionConverter x:Key="GradingRateConverter" />
+
+    </Window.Resources>
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="3*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Menu Grid.Row="0" 
+              Background="{DynamicResource {x:Static SystemColors.WindowBrushKey}}">
+            <MenuItem Header="メニュー(_M)">
+                <MenuItem Header="履修希望科目を読み込む(_H)" Click="ReadSchedule" />
+                <MenuItem Header="時間割検索から読み込む(_C)" Click="ReadAllCourses" />
+                <!--<MenuItem Header="シラバスから読み込む(_S)" Click="ReadFromSyllabus" />-->
+                <Separator />
+                <MenuItem Header="科目データを保存(_O)" Click="OutputCourses" />
+                <MenuItem Header="科目データを開く(_I)" Click="InputCourses" />
+                <Separator />
+                <MenuItem x:Name="IsRunningAuto" Header="自動実行(_R)" IsCheckable="True" Click="RunAuto" />
+                <Separator />
+                <MenuItem Header="ソフト終了(_X)" Click="Quit" />
+            </MenuItem>
+            <MenuItem Header="ウィンドウ(_W)">
+                <MenuItem Header="設定ウィンドウを開く(_O)" Click="OpenConfig" />
+                <MenuItem Header="詳細ウィンドウを開く(_D)" Click="OpenDetail" />
+                <MenuItem Header="フィルターウィンドウを開く(_F)" Click="OpenFilter" />
+            </MenuItem>
+            <MenuItem Header="編集(_E)">
+                <MenuItem Header="フィルターを更新(_U)" Click="UpdateFiltering" />
+                <Separator />
+                <MenuItem Header="ソートをリセット(_S)" Click="ResetSorting" />
+                <MenuItem Header="フィルターをリセット(_F)" Click="ResetFiltering" />
+                <Separator />
+                <MenuItem Header="科目データを全削除(_C)" Click="ClearCourses" />
+            </MenuItem>
+        </Menu>
+
+        <ListView Grid.Row="1" x:Name="CourseListView"
+                ItemsSource="{Binding Path=Courses}"
+                GridViewColumnHeader.Click="CourseListViewColumnHeaderClickedHandler">
+
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                    <!--<Setter Property="Height" Value="{Binding Path=CourseHeight, RelativeSource={RelativeSource Mode=FindAncestor, 
+                        AncestorType={x:Type local:ConfigWindow}, AncestorLevel=1}}" />-->
+                    <EventSetter Event="Selected" Handler="SelectedCourse" />
+                    <EventSetter Event="Unselected" Handler="UnselectedCourse" />
+                </Style>
+            </ListView.ItemContainerStyle>
+
+            <ListView.View>
+
+                <GridView x:Name="CoursesGridView">
+
+                    <GridViewColumn Header="No">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" 
+                                           Text="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type ListViewItem}},Converter={StaticResource ViewIndexConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    
+                    <!--<GridViewColumn Header="登録">
+                    <GridViewColumn.CellTemplate>
+                        <DataTemplate>
+                            <CheckBox HorizontalAlignment="Center" IsChecked="{Binding Path=Registers}"/>
+                        </DataTemplate>
+                    </GridViewColumn.CellTemplate>
+                </GridViewColumn>-->
+                    <GridViewColumn Header="登録">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Path=RegisterNumber}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="時間割番号" DisplayMemberBinding="{Binding Path=Id}" />
+                    <GridViewColumn Header="種類&#10;(JP)">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"
+                                        Text="{Binding Path=JPSubjectType}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!--<GridViewColumn Header="種類&#10;(EN)">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"
+                                        Text="{Binding Path=ENSubjectType}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>-->
+                    <GridViewColumn Header="群&#10;(GS)">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Path=KugsOfGS}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="2nd&#10;(GS)">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Path=SignOfGS}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="3rd&#10;(GS)">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Path=SignDetailOfGS}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="時間割名" DisplayMemberBinding="{Binding Path=Title}" />
+                    <GridViewColumn Header="担当教員" DisplayMemberBinding="{Binding Path=Instructor}" />
+                    <GridViewColumn Header="曜日">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Text="{Binding Path=DayOfWeek, Converter={StaticResource DayOfWeekConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="時限">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Path=Period}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!--<GridViewColumn Header="曜日&#10;+時限" DisplayMemberBinding="{Binding Path=DayOfWeekAndPeriod}" />-->
+                    <GridViewColumn Header="適正&#10;人数">
+                        <!--<GridViewColumn.Header>
+                        <TextBlock TextAlignment="Center" Text="適正&#10;人数" />
+                    </GridViewColumn.Header>-->
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=MaxSize}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="登録&#10;者数">
+                        <!--<GridViewColumn.Header>
+                        <TextBlock TextAlignment="Center" Text="登録&#10;者数" />
+                    </GridViewColumn.Header>-->
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=RegisteredSize}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="残枠">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=RestSize}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="抽選&#10;対象">
+                        <!--<GridViewColumn.Header>
+                        <TextBlock TextAlignment="Center" Text="抽選&#10;対象" />
+                    </GridViewColumn.Header>-->
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"
+                                            Text="{Binding Path=IsDoneLottery, Converter={StaticResource NullableBooleanToMarkConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="追加">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox HorizontalAlignment="Center" VerticalAlignment="Center"
+                                            IsChecked="{Binding Path=IsToAdd}" IsEnabled="{Binding Path=NotRegisters}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!--<GridViewColumn Header="削除">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <CheckBox HorizontalAlignment="Center" VerticalAlignment="Center"
+                                            IsChecked="{Binding Path=IsToDelete}" IsEnabled="{Binding Path=Registers}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>-->
+                    <GridViewColumn Header="単位数">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Path=Credit}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="開講&#10;単位">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Path=UnitType}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="単位数&#10;(Quarter)">
+                        <!--<GridViewColumn.Header>
+                        <TextBlock TextAlignment="Center" Text="単位数&#10;(Quarter)" />
+                    </GridViewColumn.Header>-->
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Path=CreditPerQuarter}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!--<GridViewColumn Header="lct_cd" DisplayMemberBinding="{Binding Path=Lctcd}" />-->
+
+                    <GridViewColumn Header="Q1">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Text="{Binding Path=OffersInQ1, Converter={StaticResource NullableBooleanToMarkConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Q2">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Text="{Binding Path=OffersInQ2, Converter={StaticResource NullableBooleanToMarkConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Q3">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Text="{Binding Path=OffersInQ3, Converter={StaticResource NullableBooleanToMarkConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Q4">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Text="{Binding Path=OffersInQ4, Converter={StaticResource NullableBooleanToMarkConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!--<GridViewColumn Header="分類&#10;(シラバス)" DisplayMemberBinding="{Binding Path=SyllabusSchoolOrDivision}" />-->
+                    <GridViewColumn Header="分類&#10;(JP)">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Text="{Binding Path=JPSyllabusSchoolOrDivision}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!--<GridViewColumn Header="分類&#10;(EN)">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Text="{Binding Path=ENSyllabusSchoolOrDivision}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>-->
+                    <!--<GridViewColumn Header="授業科目名&#10;(シラバス)" DisplayMemberBinding="{Binding Path=SyllabusTitle}" />-->
+                    <GridViewColumn Header="授業科目名&#10;(JP)" DisplayMemberBinding="{Binding Path=JPSyllabusTitle}" />
+                    <!--<GridViewColumn Header="授業科目名&#10;(EN)" DisplayMemberBinding="{Binding Path=ENSyllabusTitle}" />-->
+                    <GridViewColumn Header="CityCollege&#10;(シラバス)">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Text="{Binding Path=IsCityCollege, Converter={StaticResource NullableBooleanToMarkConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!--<GridViewColumn Header="担当教員名&#10;(シラバス)" DisplayMemberBinding="{Binding Path=SyllabusInstructor}" />-->
+                    <!--<GridViewColumn Header="担当教員名&#10;(JP)" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock VerticalAlignment="Center" 
+                                        Text="{Binding Path=JPSyllabusInstructors, Converter={StaticResource ReadOnlyStringCollectionConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>-->
+                    <!--<GridViewColumn Header="担当教員名&#10;(EN)">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock VerticalAlignment="Center" 
+                                        Text="{Binding Path=ENSyllabusInstructors, Converter={StaticResource ReadOnlyStringCollectionConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>-->
+                    <GridViewColumn Header="科目ナンバー&#10;(シラバス)" DisplayMemberBinding="{Binding Path=SyllabusNumberingCode}" />
+                    <GridViewColumn Header="科目区分&#10;(シラバス)">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Path=SyllabusCategory}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!--<GridViewColumn Header="科目区分&#10;(シラバス)" DisplayMemberBinding="{Binding Path=SyllabusCategory}" />-->
+                    <GridViewColumn Header="講義形態&#10;(シラバス)">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Text="{Binding Path=SyllabusLectureForm, Converter={StaticResource NullableLectureFormConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="対象学生&#10;(シラバス)" DisplayMemberBinding="{Binding Path=SyllabusAssignedYear}" />
+                    <!--<GridViewColumn Header="キーワード">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                                        Text="{Binding Path=SyllabusKeyword, Converter={StaticResource StringListConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>-->
+                    <!--<GridViewColumn Header="キーワード&#10;(JP)" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock VerticalAlignment="Center" 
+                                        Text="{Binding Path=JPSyllabusKeywords, Converter={StaticResource ReadOnlyStringCollectionConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="キーワード&#10;(EN)" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock VerticalAlignment="Center" 
+                                        Text="{Binding Path=ENSyllabusKeywords, Converter={StaticResource ReadOnlyStringCollectionConverter}}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusKeyword}" Header="キーワード" />-->
+                    <GridViewColumn Header="評価の割合&#10;(シラバス)" 
+                                    DisplayMemberBinding="{Binding Path=SyllabusGradingRateDetails, Converter={StaticResource GradingRateConverter}}"/>
+                    <GridViewColumn Header="割合&#10;出席">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfAttendance}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;レポート">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfReport}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;課題">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfHomework}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;小テスト">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfMiniExam}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;中間">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfMidtermExam}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;期末">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfFinalExam}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;態度">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfAttitude}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;発表">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfPresentation}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;演習">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfExercise}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;実験">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfExperiment}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;論文">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfThesis}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;他">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusGradingRateOfOthers}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="割合&#10;総計">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Text="{Binding Path=SyllabusSumOfGradingRate}"/>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <!--<GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusTopic}" Header="授業の主題&#10;(シラバス)" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusObjective}" Header="授業の目標&#10;(シラバス)" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusLearningOutcomes}" Header="学生の学習目標&#10;(シラバス)" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusOutline}" Header="授業の概要&#10;(シラバス)" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusGradingMethod}" Header="評価の方法&#10;(シラバス)" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusGradingRate}" Header="評価の割合&#10;(シラバス)" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusTeachingMaterials}" Header="テキスト・教材・参考書等&#10;(シラバス)" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusOthers}" Header="その他注意事項&#10;(シラバス)" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusConsultationTime}" Header="オフィスアワー等&#10;(シラバス)" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusMethodForAdjustingClassSize}" Header="受講者数調整の方法&#10;(シラバス)" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusSubjectOfOpen}" Header="開放科目&#10;(シラバス)" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=SyllabusSpecialNote}" Header="特記事項&#10;(シラバス)" />-->
+
+                </GridView>
+
+            </ListView.View>
+
+        </ListView>
+
+        <GridSplitter Grid.Row="2"
+                      Height="6" HorizontalAlignment="Stretch" />
+
+        <ScrollViewer Grid.Row="3"
+                      VerticalScrollBarVisibility="Visible">
+
+            <Label x:Name="LogLabel" Content="{Binding Path=LogText, Mode=OneWay}"/>
+
+        </ScrollViewer>
+
+        <StatusBar Grid.Row="4" x:Name="StatusBar">
+
+            <StatusBarItem HorizontalAlignment="Left">
+                <StackPanel Orientation="Horizontal">
+                    <StatusBarItem x:Name="StatusLoginUser" Content="ログイン状態表示" />
+                    <StatusBarItem x:Name="StatusMessage" />
+                </StackPanel>
+            </StatusBarItem>
+
+            <StatusBarItem HorizontalAlignment="Right">
+                <StackPanel Orientation="Horizontal">
+                    <StatusBarItem x:Name="StatusViewCount" Content="0 / 0 件" />
+                    <StatusBarItem x:Name="StatusIsRun" Content="自動監視状態" />
+                    <StatusBarItem x:Name="StatusInterval" Content="実行間隔: xx秒" />
+                    <StatusBarItem x:Name="StatusNext" Content="次の実行時刻は 00:00:00 です。"/>
+                </StackPanel>
+            </StatusBarItem>
+
+        </StatusBar>
+
+    </Grid>
+
+</Window>

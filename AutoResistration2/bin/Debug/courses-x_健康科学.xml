@@ -1,0 +1,4314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCourse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.414</Id>
+    <DayOfWeek>Monday</DayOfWeek>
+    <Period>4</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>吉川　弘明 [YOSHIKAWA, Hiroaki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>true</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストは，以下のリンク先の該当箇所からダウンロードすること
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.422</Id>
+    <DayOfWeek>Tuesday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>true</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストは，以下のリンク先の該当箇所からダウンロードすること
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.433</Id>
+    <DayOfWeek>Wednesday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>true</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストは，以下のリンク先の該当箇所からダウンロードすること
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.442</Id>
+    <DayOfWeek>Thursday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>true</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストは，以下のリンク先の該当箇所からダウンロードすること
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.443</Id>
+    <DayOfWeek>Thursday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>true</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストは，以下のリンク先の該当箇所からダウンロードすること
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.322</Id>
+    <DayOfWeek>Tuesday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>true</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストは，以下のリンク先の該当箇所からダウンロードすること
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.332</Id>
+    <DayOfWeek>Wednesday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>稲垣　美智子 [INAGAKI, Michiko]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>true</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストは，以下のリンク先の該当箇所からダウンロードすること
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.333</Id>
+    <DayOfWeek>Wednesday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>true</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストは，以下のリンク先の該当箇所からダウンロードすること
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.34a</Id>
+    <DayOfWeek>Thursday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>true</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストは，以下のリンク先の該当箇所からダウンロードすること
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.34b</Id>
+    <DayOfWeek>Thursday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>須釜　淳子 [SUGAMA, Junko]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>true</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストは，以下のリンク先の該当箇所からダウンロードすること
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.343</Id>
+    <DayOfWeek>Thursday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>true</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストは，以下のリンク先の該当箇所からダウンロードすること
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>73F0l.213</Id>
+    <DayOfWeek>Monday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>80</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;３群．考え・価値観を表現する&amp;nbsp;&lt;font class='font-en'&gt;Standard 3. Express thoughts and values&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>スポーツ科学・スポーツ健康科学入門Ⅱ［Sports Science］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>津田　龍佑 [TSUDA RYOSUKE]、 寳學　淳郎 [HOUGAKU, Atsurou]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>None</SyllabusLectureForm>
+    <SyllabusAssignedYear>全学生</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>身体・スポーツ，健康，体力，競技力
+
+Health, Physical fitness, Sport performance</SyllabusKeyword>
+    <SyllabusTopic>肥満，生活習慣病，運動・栄養・休養，競技力向上，スポーツとケガ，熱中症
+
+Obesity, Lifestyle-related diseases, Exercise, Nutrition, Rest,
+Improvement in sport performance, Sport-related injury, Heat-related illness</SyllabusTopic>
+    <SyllabusObjective>本授業では，健康・体力に関する認識を深め，健康・体力づくりの能力を高めることを目的とする．また，競技力向上のためのトレーニングの行い方を理解する．また，スポーツとケガ，熱中症についても説明する．
+
+The aim of this course is to help students increase awareness of health and physical fitness, enhance abilities for improvement in physical fitness, and understand training methods for improvement in sport performance, sport-related injury and heat-related illness.</SyllabusObjective>
+    <SyllabusLearningOutcomes>本授業の到達目標
+・健康や体力について説明できる
+・運動が心身の健康に及ぼす影響について説明できる
+・体力づくりのための運動を計画・実践・評価できる
+・競技力向上のためのトレーニングが心身に及ぼす影響を説明できる　
+・競技力向上のためのトレーニングを計画・実践・評価できる
+・スポーツ外傷，応急処置，および熱中症について説明できる	
+
+
+The goals of this course are to
+・be able to explain health and physical fitness
+・be able to explain the effects of exercise on physical and mental health
+・be able to plan, do, and check exercise for improvement in physical fitness
+・be able to explain the effects of training for improvement in sport performance on physical fitness and mental
+・be able to plan, do and check training for improvement in sport performance
+・be able to explain prevention of sport-related injury, first aid, and heat- related illness</SyllabusLearningOutcomes>
+    <SyllabusOutline>1．ガイダンス
+2．心身の健康
+3．肥満
+4．生活習慣病
+5．無酸素運動・有酸素運動
+6．時間栄養学
+7．ロコモティブシンドローム
+8．競技力
+9.技術・戦術
+10．体力
+11．精神力
+12．発育期の運動
+13．スポーツのケガ
+14．熱中症
+15．総括
+16．試験
+
+
+1. Guidance
+2. Physical and mental health
+3. Obesity
+4. Lifestyle-related diseases
+5. Anaerobic and aerobic exercise
+6. Chrono-nutrition
+7. Locomotive syndrome
+8. Sport performance
+9. Technique and tactics
+10. Physical fitness
+11. Psychology
+12. Exercise in development period
+13. Sport-related injury
+14. Heat-related illness
+15. Overview
+16. Exam</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;60&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;レポート/Report&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;10&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストなし．パワーポイントやビデオを用いて進める．
+
+No textbook. Power point slides and video will be used.</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime />
+    <SyllabusMethodForAdjustingClassSize>特になし/None</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.214</Id>
+    <DayOfWeek>Monday</DayOfWeek>
+    <Period>4</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>60</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>吉川　弘明 [YOSHIKAWA, Hiroaki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>オリジナルテキスト：
+金沢大学生協から購入（300円，6/14から販売予定）するか，以下のＵＲＬにアクセスし，この授業に該当するリンク先からダウンロードして印刷の上，第２週目の授業に持参すること。
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/
+※リンク先へのアクセスには，共通教育履修ガイダンスで配付する「金沢大学ＩＤ」が必要です。
+＃第１週目の講義内容はプリントを配布します。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.22a</Id>
+    <DayOfWeek>Tuesday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>64</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>須釜　淳子 [SUGAMA, Junko]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>オリジナルテキスト：
+金沢大学生協から購入（300円，6/14から販売予定）するか，以下のＵＲＬにアクセスし，この授業に該当するリンク先からダウンロードして印刷の上，第２週目の授業に持参すること。
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/
+※リンク先へのアクセスには，共通教育履修ガイダンスで配付する「金沢大学ＩＤ」が必要です。
+＃第１週目の講義内容はプリントを配布します。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.22b</Id>
+    <DayOfWeek>Tuesday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>100</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>オリジナルテキスト：
+金沢大学生協から購入（300円，6/14から販売予定）するか，以下のＵＲＬにアクセスし，この授業に該当するリンク先からダウンロードして印刷の上，第２週目の授業に持参すること。
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/
+※リンク先へのアクセスには，共通教育履修ガイダンスで配付する「金沢大学ＩＤ」が必要です。
+＃第１週目の講義内容はプリントを配布します。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.223</Id>
+    <DayOfWeek>Tuesday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>100</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>オリジナルテキスト：
+金沢大学生協から購入（300円，6/14から販売予定）するか，以下のＵＲＬにアクセスし，この授業に該当するリンク先からダウンロードして印刷の上，第２週目の授業に持参すること。
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/
+※リンク先へのアクセスには，共通教育履修ガイダンスで配付する「金沢大学ＩＤ」が必要です。
+＃第１週目の講義内容はプリントを配布します。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.23a</Id>
+    <DayOfWeek>Wednesday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>64</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>古荘　浩司 [FURUSHO, Hiroshi]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>オリジナルテキスト：
+金沢大学生協から購入（300円，6/14から販売予定）するか，以下のＵＲＬにアクセスし，この授業に該当するリンク先からダウンロードして印刷の上，第２週目の授業に持参すること。
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/
+※リンク先へのアクセスには，共通教育履修ガイダンスで配付する「金沢大学ＩＤ」が必要です。
+＃第１週目の講義内容はプリントを配布します。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.23b</Id>
+    <DayOfWeek>Wednesday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>55</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>足立　由美 [ADACHI, Yumi]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>オリジナルテキスト：
+金沢大学生協から購入（300円，6/14から販売予定）するか，以下のＵＲＬにアクセスし，この授業に該当するリンク先からダウンロードして印刷の上，第２週目の授業に持参すること。
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/
+※リンク先へのアクセスには，共通教育履修ガイダンスで配付する「金沢大学ＩＤ」が必要です。
+＃第１週目の講義内容はプリントを配布します。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.233</Id>
+    <DayOfWeek>Wednesday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>100</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>オリジナルテキスト：
+金沢大学生協から購入（300円，6/14から販売予定）するか，以下のＵＲＬにアクセスし，この授業に該当するリンク先からダウンロードして印刷の上，第２週目の授業に持参すること。
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/
+※リンク先へのアクセスには，共通教育履修ガイダンスで配付する「金沢大学ＩＤ」が必要です。
+＃第１週目の講義内容はプリントを配布します。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.235</Id>
+    <DayOfWeek>Wednesday</DayOfWeek>
+    <Period>5</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>200</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>大竹　茂樹 [OHTAKE, Shigeki]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>オリジナルテキスト：
+金沢大学生協から購入（300円，6/14から販売予定）するか，以下のＵＲＬにアクセスし，この授業に該当するリンク先からダウンロードして印刷の上，第２週目の授業に持参すること。
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/
+※リンク先へのアクセスには，共通教育履修ガイダンスで配付する「金沢大学ＩＤ」が必要です。
+＃第１週目の講義内容はプリントを配布します。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.243</Id>
+    <DayOfWeek>Thursday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>75</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>足立　由美 [ADACHI, Yumi]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>オリジナルテキスト：
+金沢大学生協から購入（300円，6/14から販売予定）するか，以下のＵＲＬにアクセスし，この授業に該当するリンク先からダウンロードして印刷の上，第２週目の授業に持参すること。
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/
+※リンク先へのアクセスには，共通教育履修ガイダンスで配付する「金沢大学ＩＤ」が必要です。
+＃第１週目の講義内容はプリントを配布します。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>72D20.252</Id>
+    <DayOfWeek>Friday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>64</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;２群．自己を知り，自己を鍛える&amp;nbsp;&lt;font class='font-en'&gt;Standard 2. Know and train oneself&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>健康科学［Practice of Wellness Promotion］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>稲垣　美智子 [INAGAKI, Michiko]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>1年生限定</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>健康、健康増進、食事と運動、心の健康、ストレス、健康リテラシー
+Health &amp; Wellness, Health Promotion, Diet and Exercise, Mental Health, Stress, Health literacy</SyllabusKeyword>
+    <SyllabusTopic>WHOは、健康（Health）を「肉体的、精神的及び社会に完全に良好な状態であり、単に疾病又は病弱の存在しないことではない。」と定義している。
+同じくWHOはWellnessについても次のように定義している。健康（Wellness）とは、計画的な努力によって得られる状態であり、よりバランスの取れた健康的な生活を得ようとする行動そのものを指している。健康を肉体面だけでとらえるのではなく、生活全体を積極的・創造的なものとして、健康を維持・増進させようとする生活活動そのものとして捉えている。
+この講義では、健康を守る社会の仕組みを学ぶと共に、健康的な生活を送るために必要な知識を身に着け、日常生活の中に取り入れて、実践していくことを目指します。
+
+World Health Organization defines that Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.
+Wellness is also defined by WHO as a dynamic process of becoming aware of and making conscious choices toward a more balanced and healthy lifestyle. 
+It includes learning new life skills that address both the positive and negative aspects of human existence. Health promotion is the science and art of helping people change their lifestyle toward an optimal state of health.
+In this lecture we will learn the social institutions for promoting health and the knowledge necessary to live healthy life. We will be able to adopt and practice them in everyday life.</SyllabusTopic>
+    <SyllabusObjective>健康を守りさらに積極的に増進するために必要な社会全体としての目標、取り組みを学ぶ。
+個人として実践可能な正しい食事、運動や休養の知識、メンタルヘルスに関する知識および健康リテラシーと健康情報について学ぶ。
+これらを日常生活の中で実践する方法を学ぶ。 
+
+The goals of this class are to: 
+1) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+2) learn about right knowledge of the meal, and healthy exercise and relaxation.
+3) learn about mental health, self-care and social support.
+4) learn about healthy literacy and health information.
+5) learn about the method of evaluation of healthy daily life.</SyllabusObjective>
+    <SyllabusLearningOutcomes>自分自身や家族の健康について考え、実践するにはどのようにすべきかを学ぶ。
+健康を意識した生活を送るための情報収集、健康増進活動を行うことができるようになる。 
+
+The students’ goals are to: 
+1) become interested in their own and family's health.
+2) learn about the social institutions for promoting health and the knowledge necessary to live healthy life. 
+3) learn about right knowledge of the meal, healthy exercise and relaxation, and mental health and self-care.
+4) be able to adopt and practice them in everyday life.</SyllabusLearningOutcomes>
+    <SyllabusOutline>１．健康とは
+　　　HealthとWellness
+　　　健康を守る身体の仕組み
+　　　　非特異的防御能と特異的防御能（免疫）
+　　　課題：予防接種について調べてみよう　
+２．健康を守る社会の仕組み
+　　　医療保険制度
+　　　医療施設
+　　　健康増進運動　
+３．正しい食事の知識
+　　　栄養とエネルギー
+　　　食事の評価法
+　　　　食品交換表、栄養バランスシート、三色法（生協）
+　　　課題：1週間の食事を記録する
+４．健康的な運動と休養
+　　　身体活動基準
+　　　健康造りのための運動
+　　　睡眠と休養
+　　　課題：毎日の運動を記録する
+５．心の健康とセルフケア
+　　　ストレスとは
+　　　ストレスアセスメント
+　　　ストレスマネジメント
+　　　セルフケア（リフレーミング、セルフトーク、呼吸法等）
+　　　課題：自分なりのストレス解消法（コーピング）を複数考える
+６．心の健康とソーシャルサポート
+　　　学生相談事例（不登校、自傷、DV・ストーカー、うつ病、発達障害）
+　　　悩みをかかえた学生への対応
+　　　ロールプレイ
+７．健康リテラシーと健康情報学
+　　　健康リテラシーとは
+　　　健康リテラシーの重要性
+　　　病気の症状を調べてみよう
+　　　健康診断を考えてみよう
+　　　エビデンスに基づいた健康情報の見分け方
+８．毎日の食事と運動を評価する
+　　　課題に基づいて、自分の食事と運動を評価する
+　　　
+
+８回目の後半に期末試験を行う
+
+
+１．What is the health?
+　　　Health &amp; Wellness
+　　　The physical mechanism for protecting health
+　　　　Nonspecific defense ability and specific defense ability     (immunity)
+　　　 Homework：Let's study vaccinations　
+２．The social institutions for promoting health
+　　　Medical insurance system
+　　　Medical facilities（hospital &amp; clinic）
+　　　Health promotion　
+３．Right knowledge of the meal
+　　　Nourishment and energy
+　　　Evaluation of the meal
+　　　　Food exchange table、Nourishment balance sheet、Three-color method
+　　　Homework：Record your meals for a week
+４．Healthy exercise and relaxation
+　　　Standard of physical activity
+　　　Exercise for healthy life
+　　　Sleep and relaxation
+　　　Homework：Record your exercise for a week
+５．Mental health and self-care
+　　　What is the stress?
+　　　Assessment of Stress
+　　　Management of Stress
+　　　Self-care (reframing, self-talking, the breathing method)
+　　　Homework：Think about the stress-coping methods for oneself
+６．Mental health and social support
+　　　Examples of student consultation
+　　　（School refusal, Self-harm, Domestic violence, Stoker, Depression, Developmental disability）
+　　　Correspondence to a student with a trouble
+　　　Role-playing
+７．Health literacy and health information
+　　　What is health literacy?
+　　　Importance of health literacy
+　　　Symptoms and signs of illness
+　　　About medical examinations
+　　　How to identify the health information based on evidence
+８．Evaluate your daily meal and exercise
+　　　based on homework
+　　　
+　　Final Examination</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。/Attendance to at least two-thirds of classes is required.&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;課題提出&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;Attendance to at least two-thirds of classes is required.&lt;br&gt;Attendance rate　20%&lt;br&gt;Report　　　　　　　30%&lt;br&gt;Final exam.　　　　50%&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>オリジナルテキスト：
+金沢大学生協から購入（300円，6/14から販売予定）するか，以下のＵＲＬにアクセスし，この授業に該当するリンク先からダウンロードして印刷の上，第２週目の授業に持参すること。
+http://ilas.w3.kanazawa-u.ac.jp/students/subject/gs/gs_text/
+※リンク先へのアクセスには，共通教育履修ガイダンスで配付する「金沢大学ＩＤ」が必要です。
+＃第１週目の講義内容はプリントを配布します。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>アカンサスポータルを利用して電子メールにより質問すること。
+内容を把握したうえで個別に対応する。
+
+We will answer questions by email individually.</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>73F0k.113</Id>
+    <DayOfWeek>Monday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Quarter</UnitType>
+    <Credit>1</Credit>
+    <MaxSize>80</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;３群．考え・価値観を表現する&amp;nbsp;&lt;font class='font-en'&gt;Standard 3. Express thoughts and values&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>スポーツ科学・スポーツ健康科学入門Ⅰ［Sports Science］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>津田　龍佑 [TSUDA RYOSUKE]、 寳學　淳郎 [HOUGAKU, Atsurou]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>None</SyllabusLectureForm>
+    <SyllabusAssignedYear>全学生</SyllabusAssignedYear>
+    <OffersInQ1>true</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>身体・スポーツ，健康，体力，競技力
+
+Health, Physical fitness, Sport performance</SyllabusKeyword>
+    <SyllabusTopic>肥満，生活習慣病，運動・栄養・休養，競技力向上，スポーツとケガ，熱中症
+
+Obesity, Lifestyle-related diseases, Exercise, Nutrition, Rest,
+Improvement in sport performance, Sport-related injury, Heat-related illness</SyllabusTopic>
+    <SyllabusObjective>本授業では，健康・体力に関する認識を深め，健康・体力づくりの能力を高めることを目的とする．また，競技力向上のためのトレーニングの行い方を理解する．また，スポーツとケガ，熱中症についても説明する．
+
+The aim of this course is to help students increase awareness of health and physical fitness, enhance abilities for improvement in physical fitness, and understand training methods for improvement in sport performance, sport-related injury and heat-related illness.</SyllabusObjective>
+    <SyllabusLearningOutcomes>本授業の到達目標
+・健康や体力について説明できる
+・運動が心身の健康に及ぼす影響について説明できる
+・体力づくりのための運動を計画・実践・評価できる
+・競技力向上のためのトレーニングが心身に及ぼす影響を説明できる　
+・競技力向上のためのトレーニングを計画・実践・評価できる
+・スポーツ外傷，応急処置，および熱中症について説明できる	
+
+
+The goals of this course are to
+・be able to explain health and physical fitness
+・be able to explain the effects of exercise on physical and mental health
+・be able to plan, do, and check exercise for improvement in physical fitness
+・be able to explain the effects of training for improvement in sport performance on physical fitness and mental
+・be able to plan, do and check training for improvement in sport performance
+・be able to explain prevention of sport-related injury, first aid, and heat- related illness</SyllabusLearningOutcomes>
+    <SyllabusOutline>1．ガイダンス
+2．心身の健康
+3．肥満
+4．生活習慣病
+5．無酸素運動・有酸素運動
+6．時間栄養学
+7．ロコモティブシンドローム
+8．競技力
+9.技術・戦術
+10．体力
+11．精神力
+12．発育期の運動
+13．スポーツのケガ
+14．熱中症
+15．総括
+16．試験
+
+
+1. Guidance
+2. Physical and mental health
+3. Obesity
+4. Lifestyle-related diseases
+5. Anaerobic and aerobic exercise
+6. Chrono-nutrition
+7. Locomotive syndrome
+8. Sport performance
+9. Technique and tactics
+10. Physical fitness
+11. Psychology
+12. Exercise in development period
+13. Sport-related injury
+14. Heat-related illness
+15. Overview
+16. Exam</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;60&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;レポート/Report&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;10&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストなし．パワーポイントやビデオを用いて進める．
+
+No textbook. Power point slides and video will be used.</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime />
+    <SyllabusMethodForAdjustingClassSize>特になし/None</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>73F0c.113</Id>
+    <DayOfWeek>Monday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Semester</UnitType>
+    <Credit>2</Credit>
+    <MaxSize>80</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;ＧＳ科目&amp;nbsp;&lt;font class='font-en'&gt;GS General Education Courses&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;３群．考え・価値観を表現する&amp;nbsp;&lt;font class='font-en'&gt;Standard 3. Express thoughts and values&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>スポーツ科学・スポーツ・健康科学入門［Sports Science］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>津田　龍佑 [TSUDA RYOSUKE]、 寳學　淳郎 [HOUGAKU, Atsurou]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory />
+    <SyllabusLectureForm>None</SyllabusLectureForm>
+    <SyllabusAssignedYear>全学生</SyllabusAssignedYear>
+    <OffersInQ1>true</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>身体・スポーツ，健康，体力，競技力
+
+Health, Physical fitness, Sport performance</SyllabusKeyword>
+    <SyllabusTopic>肥満，生活習慣病，運動・栄養・休養，競技力向上，スポーツとケガ，熱中症
+
+Obesity, Lifestyle-related diseases, Exercise, Nutrition, Rest,
+Improvement in sport performance, Sport-related injury, Heat-related illness</SyllabusTopic>
+    <SyllabusObjective>本授業では，健康・体力に関する認識を深め，健康・体力づくりの能力を高めることを目的とする．また，競技力向上のためのトレーニングの行い方を理解する．また，スポーツとケガ，熱中症についても説明する．
+
+The aim of this course is to help students increase awareness of health and physical fitness, enhance abilities for improvement in physical fitness, and understand training methods for improvement in sport performance, sport-related injury and heat-related illness.</SyllabusObjective>
+    <SyllabusLearningOutcomes>本授業の到達目標
+・健康や体力について説明できる
+・運動が心身の健康に及ぼす影響について説明できる
+・体力づくりのための運動を計画・実践・評価できる
+・競技力向上のためのトレーニングが心身に及ぼす影響を説明できる　
+・競技力向上のためのトレーニングを計画・実践・評価できる
+・スポーツ外傷，応急処置，および熱中症について説明できる	
+
+
+The goals of this course are to
+・be able to explain health and physical fitness
+・be able to explain the effects of exercise on physical and mental health
+・be able to plan, do, and check exercise for improvement in physical fitness
+・be able to explain the effects of training for improvement in sport performance on physical fitness and mental
+・be able to plan, do and check training for improvement in sport performance
+・be able to explain prevention of sport-related injury, first aid, and heat- related illness</SyllabusLearningOutcomes>
+    <SyllabusOutline>1．ガイダンス
+2．心身の健康
+3．肥満
+4．生活習慣病
+5．無酸素運動・有酸素運動
+6．時間栄養学
+7．ロコモティブシンドローム
+8．競技力
+9.技術・戦術
+10．体力
+11．精神力
+12．発育期の運動
+13．スポーツのケガ
+14．熱中症
+15．総括
+16．試験
+
+
+1. Guidance
+2. Physical and mental health
+3. Obesity
+4. Lifestyle-related diseases
+5. Anaerobic and aerobic exercise
+6. Chrono-nutrition
+7. Locomotive syndrome
+8. Sport performance
+9. Technique and tactics
+10. Physical fitness
+11. Psychology
+12. Exercise in development period
+13. Sport-related injury
+14. Heat-related illness
+15. Overview
+16. Exam</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;60&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;レポート/Report&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;10&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストなし．パワーポイントやビデオを用いて進める．
+
+No textbook. Power point slides and video will be used.</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime />
+    <SyllabusMethodForAdjustingClassSize>特になし/None</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>71475.51</Id>
+    <DayOfWeek>Monday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Semester</UnitType>
+    <Credit>2</Credit>
+    <MaxSize>20</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;テーマ別科目ｃ（自分を知る・他者を知る）&amp;nbsp;&lt;font class='font-en'&gt;Theme-based Subjects; Knowing Self and Others&lt;/font&gt;&amp;nbsp;＞&amp;nbsp;身体・スポーツ&amp;nbsp;&lt;font class='font-en'&gt;Physical activity and Sports&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>スポーツ・健康科学入門［Introduction to Sports &amp;Health Science］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>津田　龍佑 [TSUDA RYOSUKE]、 寳學　淳郎 [HOUGAKU, Atsurou]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory>テーマc（自分を知る・他者を知る）</SyllabusCategory>
+    <SyllabusLectureForm>LectureAndOthers</SyllabusLectureForm>
+    <SyllabusAssignedYear>全学生</SyllabusAssignedYear>
+    <OffersInQ1>true</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>身体・スポーツ，健康，体力，競技力
+
+Health, Physical fitness, Sport performance</SyllabusKeyword>
+    <SyllabusTopic>肥満，生活習慣病，運動・栄養・休養，競技力向上，スポーツとケガ，熱中症
+
+Obesity, Lifestyle-related diseases, Exercise, Nutrition, Rest,
+Improvement in sport performance, Sport-related injury, Heat-related illness</SyllabusTopic>
+    <SyllabusObjective>本授業では，健康・体力に関する認識を深め，健康・体力づくりの能力を高めることを目的とする．また，競技力向上のためのトレーニングの行い方を理解する．また，スポーツとケガ，熱中症についても説明する．
+
+The aim of this course is to help students increase awareness of health and physical fitness, enhance abilities for improvement in physical fitness, and understand training methods for improvement in sport performance, sport-related injury and heat-related illness.</SyllabusObjective>
+    <SyllabusLearningOutcomes>本授業の到達目標
+・健康や体力について説明できる
+・運動が心身の健康に及ぼす影響について説明できる
+・体力づくりのための運動を計画・実践・評価できる
+・競技力向上のためのトレーニングが心身に及ぼす影響を説明できる　
+・競技力向上のためのトレーニングを計画・実践・評価できる
+・スポーツ外傷，応急処置，および熱中症について説明できる	
+
+
+The goals of this course are to
+・be able to explain health and physical fitness
+・be able to explain the effects of exercise on physical and mental health
+・be able to plan, do, and check exercise for improvement in physical fitness
+・be able to explain the effects of training for improvement in sport performance on physical fitness and mental
+・be able to plan, do and check training for improvement in sport performance
+・be able to explain prevention of sport-related injury, first aid, and heat- related illness</SyllabusLearningOutcomes>
+    <SyllabusOutline>1．ガイダンス
+2．心身の健康
+3．肥満
+4．生活習慣病
+5．無酸素運動・有酸素運動
+6．時間栄養学
+7．ロコモティブシンドローム
+8．競技力
+9.技術・戦術
+10．体力
+11．精神力
+12．発育期の運動
+13．スポーツのケガ
+14．熱中症
+15．総括
+16．試験
+
+
+1. Guidance
+2. Physical and mental health
+3. Obesity
+4. Lifestyle-related diseases
+5. Anaerobic and aerobic exercise
+6. Chrono-nutrition
+7. Locomotive syndrome
+8. Sport performance
+9. Technique and tactics
+10. Physical fitness
+11. Psychology
+12. Exercise in development period
+13. Sport-related injury
+14. Heat-related illness
+15. Overview
+16. Exam</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;60&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;レポート/Report&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;30&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;出席状況/Attendance rate&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;10&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキストなし．パワーポイントやビデオを用いて進める．
+
+No textbook. Power point slides and video will be used.</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime />
+    <SyllabusMethodForAdjustingClassSize>特になし/None</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen />
+    <SyllabusSpecialNote />
+  </Course>
+</ArrayOfCourse>

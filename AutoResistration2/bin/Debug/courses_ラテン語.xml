@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCourse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>74812.02</Id>
+    <DayOfWeek>Monday</DayOfWeek>
+    <Period>1</Period>
+    <UnitType>Semester</UnitType>
+    <Credit>2</Credit>
+    <MaxSize>30</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;初習言語科目&amp;nbsp;&lt;font class='font-en'&gt;Additional Foreign Language Courses&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>ラテン語Ａ２［Latin A2］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>渡邊　明敏 [WATANABE AKITOSHI]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory>言語A</SyllabusCategory>
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>全学生</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>true</OffersInQ3>
+    <OffersInQ4>true</OffersInQ4>
+    <SyllabusKeyword>ラテン語　Latin</SyllabusKeyword>
+    <SyllabusTopic>ラテン語　Latin</SyllabusTopic>
+    <SyllabusObjective>古典ギリシア語と古典ラテン語を総称して西洋古典語という。ギリシア・ラテンの文化はあらゆる西欧的学問の基礎をなし，西欧文化の源流となった。したがってこれら両言語を修得する目的は，これらの言語で書かれた古代の文書を読み解くこと，そして更に，西欧の中世・近代の文学，哲学，歴史を研究する際の，より深い知識と理解を得ることである。特に言語学や，イギリス・フランス・ドイツ文学，医学，薬学，科学史などの研究のためには，西洋古典語の修得は欠かすことができない。
+　古典ラテン語は古代ローマ時代に用いられていた言語で，とりわけ紀元前１－紀元後１世紀の古典ラテン文学の黄金時代には，キケロ，ウェルギリウス，オウィディウス，セネカ，カエサルなど多くの作品が残されている。ラテン語Ａではラテン語の初級文法の修得を目的とする。
+
+　　Ancient Greek and Latin are the languages of the Western Classics. The Greek and Latin cultures have served as the foundation of all intellectual endeavors in the Western World. The aim of studying Greek and Latin is therefore to read ancient texts written in these languages and with that, to get better understanding for the study of medieval and modern literature, philosophy and history of Europe. Especially for the study of linguistics, English, French and German literatures, medical science, pharmacy and science history, the knowledge of Greek and Latin is indispensable.
+　　Classical Latin is the language spoken in the Roman Empire. Especially during the Golden Age, 1st century BC and AD, many great works were written by Cicero, Virgil, Ovid, Seneca, Caesar and others. Latin "A" courses are designed to introduce students to the essential grammar of Classical Latin.</SyllabusObjective>
+    <SyllabusLearningOutcomes>Ａ２
+(1) アルファベットを見て正確に発音することができる。
+(2) 基本的な語形変化に慣れ、やや複雑な構文を解釈することができる。
+(3) 例文を下敷きにして、やや複雑な文を正しく作ることができる。
+
+1. Can correctly pronounce words and phrases written in the original alphabet.
+2. Can become accustomed to the primary inflectional patterns and read relatively complex sentences.
+3. Can compose relatively complex sentences using learned vocabulary and structures.</SyllabusLearningOutcomes>
+    <SyllabusOutline>第1週　関係代名詞
+2　過去完了・未来完了
+3　疑問文
+4　命令法
+5　受動相
+6　副詞
+7　受動相・完了
+8　比較級・最上級
+9　形式所相動詞
+10　第4変化名詞
+11　不規則な比較級・最上級
+12　命令法・受動相
+13　第5変化名詞
+14　分詞
+15　不規則動詞
+16　期末試験</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;80&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;演習の発表点/Presentation point at seminar&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>松平千秋・国原吉之助『新ラテン文法』東洋出版		
+
+ 書籍の詳細情報を閲覧できます。 
+教科書:
+新ラテン文法</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>授業終了後</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen>総合教育棟</SyllabusSubjectOfOpen>
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>74812.01</Id>
+    <DayOfWeek>Tuesday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Semester</UnitType>
+    <Credit>2</Credit>
+    <MaxSize>30</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;初習言語科目&amp;nbsp;&lt;font class='font-en'&gt;Additional Foreign Language Courses&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>ラテン語Ａ２［Latin A2］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>柘植　洋一 [TSUGE, Yoichi]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory>言語A</SyllabusCategory>
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>全学生</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>true</OffersInQ3>
+    <OffersInQ4>true</OffersInQ4>
+    <SyllabusKeyword>古典ラテン語,　西洋古典文化,　西洋文化の源,　西洋近代語の基礎
+
+Classical Latin, Origin of the Western Culture and Romance languages</SyllabusKeyword>
+    <SyllabusTopic>古典ラテン語初級文法を一通り学ぶ。次年度引き続きA3, A4（やさしい原典講読）を履修する場合には、その基礎固めとなる。A3,A4 を履修しない場合でも、辞書を用いて自学自習を続けるための基礎となる。
+
+The aim of the course is to learn basic reading skill in Classical Latin. At the end of the course Latin A2, students know the fundamentals of Latin grammar.</SyllabusTopic>
+    <SyllabusObjective>古典ギリシア語と古典ラテン語を総称して西洋古典語という。ギリシア・ラテンの文化はあらゆる西欧的学問の基礎をなし，西欧文化の源流となった。したがってこれら両言語を修得する目的は，これらの言語で書かれた古代の文書を読み解くこと，そして更に，西欧の中世・近代の文学，哲学，歴史を研究する際の，より深い知識と理解を得ることである。特に言語学や，イギリス・フランス・ドイツ文学，医学，薬学，科学史などの研究のためには，西洋古典語の修得は欠かすことができない。
+　古典ラテン語は古代ローマ時代に用いられていた言語で，とりわけ紀元前１－紀元後１世紀の古典ラテン文学の黄金時代には，キケロ，ウェルギリウス，オウィディウス，セネカ，カエサルなど多くの作品が残されている。ラテン語Ａ1,A2では古典ラテン語の初級文法の修得を目的とする。
+
+Ancient Greek and Latin are the languages of the Western Classics. The Greek and Latin cultures have served as the foundation of all intellectual endeavors in the Western World. The aim of studying Greek and Latin is therefore to read ancient texts written in these languages and with that, to get better understanding for the study of medieval and modern literature, philosophy and history of Europe. Especially for the study of linguistics, English, French and German literatures, medical science, pharmacy and science history, the knowledge of Greek and Latin is indispensable.
+　　Classical Latin is the language spoken in the Roman Empire. Especially during the Golden Age, 1st century BC and AD, many great works were written by Cicero, Virgil, Ovid, Seneca, Caesar and others. Latin "A" courses are designed to introduce students to the essential grammar of Classical Latin.</SyllabusObjective>
+    <SyllabusLearningOutcomes>(1) アルファベットを見て正確に発音することができる。
+(2) 基本的な語形変化に慣れ、やや複雑な構文を解釈することができる。
+(3) 例文を下敷きにして、やや複雑な文を正しく作ることができる。
+
+1. Can correctly pronounce words and phrases written in the original alphabet.
+2. Can become accustomed to the primary inflectional patterns and read relatively complex sentences.
+3. Can compose relatively complex sentences using learned vocabulary and structures.</SyllabusLearningOutcomes>
+    <SyllabusOutline>以下の予定で文法を学んでいきます。
+第１回　前期末試験解説，名詞変化（第三変化名詞　続）
+第２回　関係代名詞　　
+第３回　過去完了・未来完了　　　　
+第４回　名詞変化（第三変化名詞　続）　　　
+第５回　疑問文，命令法・能動相　　　
+第６回　名詞変化（第三変化名詞　続）　　　
+第７回　受動相・直接法・現在・未完了過去・未来　　
+第８回　形容詞変化（第三変化　続）　　
+第９回　副詞，受動相・完了系時称分詞
+第10回　形容詞・副詞の比較級と最上級　　不規則動詞、数詞
+第11回　形式所相動詞，名詞変化（第四変化），
+第12回　形容詞・副詞の不規則な比較級と最上級不定法，命令法・受動相
+第13回　名詞変化（第五変化），分詞
+第14回　不規則動詞
+第15回  復習
+第16回　学期末試験
+
+各回で指定される教科書の内容を読む為に期待される学習時間は３０分です。知識を定着させるため練習問題を解いてください。練習問題に要する時間は６０分です。さらにその他の学習時間を含め、期間を通して通算６０時間の自習時間が期待されます。
+
+Students will learn the basic grammar of Classical Latin.
+Homework assignments will be given to review and remember what they have already learned.</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;平常点&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;平常点に含まれるもの&lt;br&gt;　・前回学習した内容の練習問題（ラ和訳、及び和ラ訳問題）を授業開始時に提出すること。&lt;br&gt;　・随時行う確認小テストの結果。&lt;br&gt;&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキスト　　　　：松平千秋、国原吉之助　　　　『新ラテン文法』　　東洋出版株式会社
+
+　辞書　　　　　：テキストに語彙集があるので，この段階では不要。　　　
+　参考書・その他：授業開始時に紹介する。
+		
+
+ 書籍の詳細情報を閲覧できます。 
+教科書:
+松平千秋、国原吉之助　　　　『新ラテン文法』</SyllabusTeachingMaterials>
+    <SyllabusOthers>言語の学習に王道は無い。毎週着実に学習を積み上げていくことが重要。</SyllabusOthers>
+    <SyllabusConsultationTime>質問などは原則として授業中・後に受け付ける。それ以外の対応方法に関しては、最初の授業時に説明する。</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>特になし/None</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen>総合教育棟</SyllabusSubjectOfOpen>
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>74814</Id>
+    <DayOfWeek>Tuesday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Semester</UnitType>
+    <Credit>2</Credit>
+    <MaxSize>30</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;初習言語科目&amp;nbsp;&lt;font class='font-en'&gt;Additional Foreign Language Courses&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>ラテン語Ａ４［Latin A4］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>柘植　洋一 [TSUGE, Yoichi]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory>言語A</SyllabusCategory>
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>２年以上優先</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>true</OffersInQ3>
+    <OffersInQ4>true</OffersInQ4>
+    <SyllabusKeyword>古典ラテン語,　西洋古典文化,　西洋文化の源,　西洋近代語の基礎
+
+Classical Latin, Origin of the Western Culture and Romance languages</SyllabusKeyword>
+    <SyllabusTopic>古典ラテン語初級文法を一通り学び終える。辞書を用いて自学自習を続けるための基礎となる。
+
+The aim of the course is to learn basic reading skill in Classical Latin. At the end of the course Latin A4 students know the fundamentals of Latin grammar.</SyllabusTopic>
+    <SyllabusObjective>古典ギリシア語と古典ラテン語を総称して西洋古典語という。ギリシア・ラテンの文化はあらゆる西欧的学問の基礎をなし，西欧文化の源流となった。したがってこれら両言語を修得する目的は，これらの言語で書かれた古代の文書を読み解くこと，そして更に，西欧の中世・近代の文学，哲学，歴史を研究する際の，より深い知識と理解を得ることである。特に言語学や，イギリス・フランス・ドイツ文学，医学，薬学，科学史などの研究のためには，西洋古典語の修得は欠かすことができない。古典ラテン語は古代ローマ時代に用いられていた言語で，とりわけ紀元前１－紀元後１世紀の古典ラテン文学の黄金時代には，キケロ，ウェルギリウス，オウィディウス，セネカ，カエサルなど多くの作品が残されている。ラテン語A3,A4ではA1,A2に引き続いて文法を学び，古典ラテン語の初級文法の一通りの修得を目標とする。
+
+Ancient Greek and Latin are the languages of the Western Classics. The Greek and Latin cultures have served as the foundation of all intellectual endeavors in the Western World. The aim of studying Greek and Latin is therefore to read ancient texts written in these languages and with that, to get better understanding for the study of medieval and modern literature, philosophy and history of Europe. Especially for the study of linguistics, English, French and German literatures, medical science, pharmacy and science history, the knowledge of Greek and Latin is indispensable.
+　　Classical Latin is the language spoken in the Roman Empire. Especially during the Golden Age, 1st century BC and AD, many great works were written by Cicero, Virgil, Ovid, Seneca, Caesar and others. Latin "A" courses are designed to introduce students to the essential grammar of Classical Latin.</SyllabusObjective>
+    <SyllabusLearningOutcomes>(1) まとまった文章を正確に音読することができる。
+(2) 基本的な文法事項に習熟し、教科書用に編まれた原典を読解することができる。
+(3) 辞書を使って語形変化や語の用法を確認することができる。
+
+1. Can read paragraphs aloud correctly.
+2. Can master the essential rules of grammar and read text editions of ancient authors.
+3. Can use dictionaries to recognize inflected forms of words and their usages.</SyllabusLearningOutcomes>
+    <SyllabusOutline>以下の予定で文法を学んでいきます。
+第１回　比較文
+第２回　間接話法（１）絶対的奪格
+第３回　理由文
+第４回　接続詞としてのquod
+第５回　条件文
+第６回　譲歩文
+第７回　時間文
+第８回　関係文
+第９回　接続詞としてのcum
+第10回　接続詞としてのut
+第11回　間接話法（２）
+第12回　間接話法（２）つづき
+第13回　間接話法（３）
+第14回　間接話法（３）つづき
+第15回　復習
+第16回　学期末試験
+
+各回で指定される教科書の内容を読む為に期待される学習時間は３０分です。知識を定着させるため練習問題を解いてください。練習問題に要する時間は６０分です。さらにその他の学習時間を含め、期間を通して通算６０時間の自習時間が期待されます。
+
+Students will learn the basic grammar of Classical Latin.
+Homework assignments will be given to review and remember what they have already learned.</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;平常点&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;平常点に含まれるもの&lt;br&gt;　前回学習した内容の練習問題（ラ和訳、及び和ラ訳問題）を授業開始時に提出すること。&lt;br&gt;　随時行う小テストの結果。&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキスト　　　　：松平千秋、国原吉之助　　　　『新ラテン文法』　　東洋出版株式会社
+
+　辞書　　　　　：テキストに語彙集があるので，この段階では不要。　　　
+　参考書・その他：初回授業時に紹介する。
+		
+
+ 書籍の詳細情報を閲覧できます。 
+教科書:
+新ラテン文法</SyllabusTeachingMaterials>
+    <SyllabusOthers>言語の学習に王道は無い。毎週着実に学習を積み上げていくことが重要。</SyllabusOthers>
+    <SyllabusConsultationTime>質問などは原則として授業中・後に受け付ける。それ以外の対応方法に関しては、最初の授業時に説明する。</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>特になし/None</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen>総合教育棟</SyllabusSubjectOfOpen>
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>74830</Id>
+    <DayOfWeek>Friday</DayOfWeek>
+    <Period>1</Period>
+    <UnitType>Semester</UnitType>
+    <Credit>2</Credit>
+    <MaxSize>10</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;初習言語科目&amp;nbsp;&lt;font class='font-en'&gt;Additional Foreign Language Courses&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>ラテン語Ｃ［Latin C］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>渡邊　明敏 [WATANABE AKITOSHI]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory>言語C</SyllabusCategory>
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>３年以上優先</SyllabusAssignedYear>
+    <OffersInQ1>false</OffersInQ1>
+    <OffersInQ2>false</OffersInQ2>
+    <OffersInQ3>true</OffersInQ3>
+    <OffersInQ4>true</OffersInQ4>
+    <SyllabusKeyword>上級ラテン語
+
+Advanced Latin</SyllabusKeyword>
+    <SyllabusTopic>中世ラテン語
+
+Medieval Latin</SyllabusTopic>
+    <SyllabusObjective>中世ラテン語の基礎</SyllabusObjective>
+    <SyllabusLearningOutcomes>古典ラテン語と中世ラテン語の違いに留意しつつ、比較的易しい中世ラテン語のテキストを読む。</SyllabusLearningOutcomes>
+    <SyllabusOutline>第1週～第5週　中世ラテン文法の特徴について学ぶ。
+第6週～第15週　テキストを読む
+　　　　　　　　Legenda Aurea, Gesta Romanorum, Andreas CapellanusのDe Amoreなど。</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;80&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;演習の発表点/Presentation point at seminar&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>プリントを配布する。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>授業終了後質問を受け付ける。</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen>総合教育棟</SyllabusSubjectOfOpen>
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>74811.02</Id>
+    <DayOfWeek>Monday</DayOfWeek>
+    <Period>1</Period>
+    <UnitType>Semester</UnitType>
+    <Credit>2</Credit>
+    <MaxSize>30</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;初習言語科目&amp;nbsp;&lt;font class='font-en'&gt;Additional Foreign Language Courses&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>ラテン語Ａ１［Latin A1］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>渡邊　明敏 [WATANABE AKITOSHI]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory>言語A</SyllabusCategory>
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>全学生</SyllabusAssignedYear>
+    <OffersInQ1>true</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>ラテン語　Latin</SyllabusKeyword>
+    <SyllabusTopic>ラテン語 Latin</SyllabusTopic>
+    <SyllabusObjective>古典ギリシア語と古典ラテン語を総称して西洋古典語という。ギリシア・ラテンの文化はあらゆる西欧的学問の基礎をなし，西欧文化の源流となった。したがってこれら両言語を修得する目的は，これらの言語で書かれた古代の文書を読み解くこと，そして更に，西欧の中世・近代の文学，哲学，歴史を研究する際の，より深い知識と理解を得ることである。特に言語学や，イギリス・フランス・ドイツ文学，医学，薬学，科学史などの研究のためには，西洋古典語の修得は欠かすことができない。
+　古典ラテン語は古代ローマ時代に用いられていた言語で，とりわけ紀元前１－紀元後１世紀の古典ラテン文学の黄金時代には，キケロ，ウェルギリウス，オウィディウス，セネカ，カエサルなど多くの作品が残されている。ラテン語Ａではラテン語の初級文法の修得を目的とする。
+
+　　Ancient Greek and Latin are the languages of the Western Classics. The Greek and Latin cultures have served as the foundation of all intellectual endeavors in the Western World. The aim of studying Greek and Latin is therefore to read ancient texts written in these languages and with that, to get better understanding for the study of medieval and modern literature, philosophy and history of Europe. Especially for the study of linguistics, English, French and German literatures, medical science, pharmacy and science history, the knowledge of Greek and Latin is indispensable.
+　　Classical Latin is the language spoken in the Roman Empire. Especially during the Golden Age, 1st century BC and AD, many great works were written by Cicero, Virgil, Ovid, Seneca, Caesar and others. Latin "A" courses are designed to introduce students to the essential grammar of Classical Latin.</SyllabusObjective>
+    <SyllabusLearningOutcomes>Ａ１
+(1) アルファベットを見て発音することができる。
+(2) 語形変化の基本を理解し、簡単な構文を解釈することができる。
+(3) 例文を下敷きにして、簡単な文を正しく作ることができる。
+
+1. Can pronounce words and phrases written in the original alphabet.
+2. Can understand the basics of declension and conjugation and read simple sentences.
+3. Can compose simple sentences using learned vocabulary and structures.</SyllabusLearningOutcomes>
+    <SyllabusOutline>第1週　ラテン語について　他の印欧語との関係、字母、発音、アクセント、語形変化の基礎
+2　第1・2変化動詞
+3　第1変化名詞
+4　第2変化名詞
+5　第1・2変化形容詞
+6　前置詞
+7　第3・4変化動詞
+8　人称代名詞
+9　未完了過去
+10　i幹名詞
+11　未来
+12　指示代名詞
+13　i幹形容詞
+14　完了
+15　子音幹名詞
+16　期末試験
+前の週で説明した文法事項に関する練習問題、和訳10題、ラテン語訳5題をしてから、その週の文法事項について説明する。毎回必ず自宅で練習問題を解いた上で出席すること。
+教科書巻末に語彙集があるので、辞書は買わなくてもよい。必要があれば附属図書館の辞書を利用すること。</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;80&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;演習の発表点/Presentation point at seminar&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>松平千秋・国原吉之助『新ラテン文法』東洋出版		
+
+ 書籍の詳細情報を閲覧できます。 
+教科書:
+新ラテン文法</SyllabusTeachingMaterials>
+    <SyllabusOthers>文庫・新書あるいはテレビ番組などでローマ史にかかわる知識を得るよう努めてほしい。</SyllabusOthers>
+    <SyllabusConsultationTime>授業終了後</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen>総合教育棟</SyllabusSubjectOfOpen>
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>74811.01</Id>
+    <DayOfWeek>Tuesday</DayOfWeek>
+    <Period>2</Period>
+    <UnitType>Semester</UnitType>
+    <Credit>2</Credit>
+    <MaxSize>30</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;初習言語科目&amp;nbsp;&lt;font class='font-en'&gt;Additional Foreign Language Courses&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>ラテン語Ａ１［Latin A1］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>柘植　洋一 [TSUGE, Yoichi]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory>言語A</SyllabusCategory>
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>全学生</SyllabusAssignedYear>
+    <OffersInQ1>true</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>古典ラテン語,　西洋古典文化,　西洋文化の源,　西洋近代語の基礎
+
+Classical Latin, Origin of the Western Culture and Romance languages</SyllabusKeyword>
+    <SyllabusTopic>古典ラテン語初級文法を一通り学ぶ。次年度引き続きA3, A4（やさしい原典講読）を履修する場合には、その基礎固めとなる。A3,A4 を履修しない場合でも、辞書を用いて自学自習を続けるための基礎となる。
+
+The aim of the course is to learn basic reading skill in Classical Latin. At the end of the course Latin A2, students know the fundamentals of Latin grammar.</SyllabusTopic>
+    <SyllabusObjective>古典ギリシア語と古典ラテン語を総称して西洋古典語という。ギリシア・ラテンの文化はあらゆる西欧的学問の基礎をなし，西欧文化の源流となった。したがってこれら両言語を修得する目的は，これらの言語で書かれた古代の文書を読み解くこと，そして更に，西欧の中世・近代の文学，哲学，歴史を研究する際の，より深い知識と理解を得ることである。特に言語学や，イギリス・フランス・ドイツ文学，医学，薬学，科学史などの研究のためには，西洋古典語の修得は欠かすことができない。
+　古典ラテン語は古代ローマ時代に用いられていた言語で，とりわけ紀元前１－紀元後１世紀の古典ラテン文学の黄金時代には，キケロ，ウェルギリウス，オウィディウス，セネカ，カエサルなど多くの作品が残されている。ラテン語Ａ1,A2では古典ラテン語の初級文法の修得を目的とする。
+
+Ancient Greek and Latin are the languages of the Western Classics. The Greek and Latin cultures have served as the foundation of all intellectual endeavors in the Western World. The aim of studying Greek and Latin is therefore to read ancient texts written in these languages and with that, to get better understanding for the study of medieval and modern literature, philosophy and history of Europe. Especially for the study of linguistics, English, French and German literatures, medical science, pharmacy and science history, the knowledge of Greek and Latin is indispensable.
+　　Classical Latin is the language spoken in the Roman Empire. Especially during the Golden Age, 1st century BC and AD, many great works were written by Cicero, Virgil, Ovid, Seneca, Caesar and others. Latin "A" courses are designed to introduce students to the essential grammar of Classical Latin.</SyllabusObjective>
+    <SyllabusLearningOutcomes>(1) アルファベットを見て発音することができる。
+(2) 語形変化の基本を理解し、簡単な構文を解釈することができる。
+(3) 例文を下敷きにして、簡単な文を正しく作ることができる。
+
+1. Can pronounce words and phrases written in the original alphabet.
+2. Can understand the basics of declension and conjugation and read simple sentences.
+3. Can compose simple sentences using learned vocabulary and structures.</SyllabusLearningOutcomes>
+    <SyllabusOutline>以下の予定で文法を学んでいきます。
+第１回　導入、古典ラテン語について，文化史的意義
+第２回　文字の読み方，アクセント，品詞，
+第３回　名詞の変化（第一変化）
+第４回　名詞の変化（第二変化）
+第５回　形容詞変化（第一・第二変化）
+第６回　前置詞
+第７回　動詞の変化（直接法・能動相・現在／第三・第四変化）
+第８回　人称代名詞
+第９回　未完了過去・直接法・能動相
+第10回　名詞の変化（第三変化）
+第11回　未来・直接法・能動相
+第12回　指示代名詞
+第13回　形容詞変化（第三変化）
+第14回　完了・直接法・能動相
+第15回　復習
+第16回　学期末試験
+
+各回で指定される教科書の内容を読む為に期待される学習時間は３０分です。知識を定着させるため練習問題を解いてください。練習問題に要する時間は６０分です。さらにその他の学習時間を含め、期間を通して通算６０時間の自習時間が期待されます。
+
+Students will learn the basic grammar of Classical Latin.
+Homework assignments will be given to review and remember what they have already learned.</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;授業には、３分の２以上の出席を必要とする。&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;平常点&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;平常点に含まれるもの&lt;br&gt;　前回学習した内容の練習問題（ラ和訳、及び和ラ訳問題）を授業開始時に提出すること。&lt;br&gt;　随時行う小テストの結果。&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキスト　　　　：松平千秋、国原吉之助　　　　『新ラテン文法』　　東洋出版株式会社
+
+　辞書　　　　　：テキストに語彙集があるので，この段階では不要。　　　
+　参考書・その他：初回授業時に紹介する。		
+
+ 書籍の詳細情報を閲覧できます。 
+教科書:
+新ラテン文法</SyllabusTeachingMaterials>
+    <SyllabusOthers>言語の学習に王道は無い。毎週着実に学習を積み上げていくことが重要。
+
+単位保留とする条件：欠席３回まで（特別な理由のある場合を除く）とする。
+　　　　　　　　　　得点率５０～５９％とする。
+　　　　　　　　　　保留後の合格者の成績は「C」評価とする。
+保留後の指導方法　：保留確定後、個別に面談し学習指導する。</SyllabusOthers>
+    <SyllabusConsultationTime>質問などは原則として授業中・後に受け付ける。それ以外の対応方法に関しては、最初の授業時に説明する。</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>特になし/None</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen>総合教育棟</SyllabusSubjectOfOpen>
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>74813</Id>
+    <DayOfWeek>Tuesday</DayOfWeek>
+    <Period>3</Period>
+    <UnitType>Semester</UnitType>
+    <Credit>2</Credit>
+    <MaxSize>30</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;初習言語科目&amp;nbsp;&lt;font class='font-en'&gt;Additional Foreign Language Courses&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>ラテン語Ａ３［Latin A3］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>柘植　洋一 [TSUGE, Yoichi]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory>言語A</SyllabusCategory>
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>２年以上優先</SyllabusAssignedYear>
+    <OffersInQ1>true</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>古典ラテン語,　西洋古典文化,　西洋文化の源,　西洋近代語の基礎
+
+Classical Latin, Origin of the Western Culture and Romance languages</SyllabusKeyword>
+    <SyllabusTopic>古典ラテン語初級文法を一通り学ぶ。A1,A2に引き続き文法を学んでいく。辞書を用いて自学自習を続けるための基礎となる。
+
+The aim of the course is to learn basic reading skill in Classical Latin. At the end of the course Latin A4 students know the fundamentals of Latin grammar.</SyllabusTopic>
+    <SyllabusObjective>古典ギリシア語と古典ラテン語を総称して西洋古典語という。ギリシア・ラテンの文化はあらゆる西欧的学問の基礎をなし，西欧文化の源流となった。したがってこれら両言語を修得する目的は，これらの言語で書かれた古代の文書を読み解くこと，そして更に，西欧の中世・近代の文学，哲学，歴史を研究する際の，より深い知識と理解を得ることである。特に言語学や，イギリス・フランス・ドイツ文学，医学，薬学，科学史などの研究のためには，西洋古典語の修得は欠かすことができない。
+　古典ラテン語は古代ローマ時代に用いられていた言語で，とりわけ紀元前１－紀元後１世紀の古典ラテン文学の黄金時代には，キケロ，ウェルギリウス，オウィディウス，セネカ，カエサルなど多くの作品が残されている。ラテン語A3,A4ではA1,A2に引き続いて文法を学び，古典ラテン語の初級文法の一通りの修得を目標とする。
+
+Ancient Greek and Latin are the languages of the Western Classics. The Greek and Latin cultures have served as the foundation of all intellectual endeavors in the Western World. The aim of studying Greek and Latin is therefore to read ancient texts written in these languages and with that, to get better understanding for the study of medieval and modern literature, philosophy and history of Europe. Especially for the study of linguistics, English, French and German literatures, medical science, pharmacy and science history, the knowledge of Greek and Latin is indispensable.
+　　Classical Latin is the language spoken in the Roman Empire. Especially during the Golden Age, 1st century BC and AD, many great works were written by Cicero, Virgil, Ovid, Seneca, Caesar and others. Latin "A" courses are designed to introduce students to the essential grammar of Classical Latin.</SyllabusObjective>
+    <SyllabusLearningOutcomes>(1) 文単位のまとまりで音読することができる。
+(2) 基本的な文法事項を理解し、やさしい文章の解釈をすることができる。
+(3) 辞書の使い方の基本を理解し、目標とする単語を調べることができる。
+
+1. Can read sentences aloud with ease.
+2. Can understand the basics of grammar and read easy texts.
+3. Can use dictionaries to find words used in the texts.</SyllabusLearningOutcomes>
+    <SyllabusOutline>以下の予定で文法を学んでいきます。
+第１回　数詞・ギリシア系名詞の変化
+第２回　絶対的奪格
+第３回　不定法
+第４回　接続法・現在
+第５回　非人称動詞
+第６回　代名詞的形容詞
+第７回　接続法・未完了過去
+第８回　動名詞
+第９回　動形容詞
+第10回　接続法・完了・過去完了
+第11回　接続詞と従属文
+第12回　名詞的目的文・時制の関連
+第13回　副詞的目的文
+第14回　傾向・結果文
+第15回　間接疑問文
+第16回　学期末試験
+
+各回で指定される教科書の内容を読む為に期待される学習時間は３０分です。知識を定着させるため練習問題を解いてください。練習問題に要する時間は６０分です。さらにその他の学習時間を含め、期間を通して通算６０時間の自習時間が期待されます。
+
+Students will learn the basic grammar of Classical Latin.
+Homework assignments will be given to review and remember what they have already learned.</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;平常点&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;50&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;平常点に含まれるもの&lt;br&gt;　前回学習した内容の練習問題（ラ和訳、及び和ラ訳問題）を授業開始時に提出すること。&lt;br&gt;　随時行う小テストの結果。&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>テキスト　　　　：松平千秋、国原吉之助　　　　『新ラテン文法』　　東洋出版株式会社
+
+　辞書　　　　　：テキストに語彙集があるので，この段階では不要。　　　
+　参考書・その他：初回授業時に紹介する。
+		
+
+ 書籍の詳細情報を閲覧できます。 
+教科書:
+新ラテン文法</SyllabusTeachingMaterials>
+    <SyllabusOthers>言語の学習に王道は無い。毎週着実に学習を積み上げていくことが重要。
+
+単位保留とする条件：欠席３回まで（特別な理由のある場合を除く）とする。
+　　　　　　　　　　得点率５０～５９％とする。
+　　　　　　　　　　保留後の合格者の成績は「C」評価とする。</SyllabusOthers>
+    <SyllabusConsultationTime>質問などは原則として授業中・後に受け付ける。それ以外の対応方法に関しては、最初の授業時に説明する。</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>特になし/None</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen>総合教育棟</SyllabusSubjectOfOpen>
+    <SyllabusSpecialNote />
+  </Course>
+  <Course>
+    <RegisterNumber xsi:nil="true" />
+    <RawSubjectType>共通教育科目&amp;nbsp;&lt;font class='font-en'&gt;Studies in Liberal Arts and Sciences&lt;/font&gt;&amp;nbsp;</RawSubjectType>
+    <Id>74820</Id>
+    <DayOfWeek>Friday</DayOfWeek>
+    <Period>1</Period>
+    <UnitType>Semester</UnitType>
+    <Credit>2</Credit>
+    <MaxSize>20</MaxSize>
+    <RegisteredSize xsi:nil="true" />
+    <IsDoneLottery xsi:nil="true" />
+    <RawSyllabusSchoolOrDivision>&amp;nbsp;初習言語科目&amp;nbsp;&lt;font class='font-en'&gt;Additional Foreign Language Courses&lt;/font&gt;			</RawSyllabusSchoolOrDivision>
+    <SyllabusTitle>ラテン語Ｂ［Latin B］</SyllabusTitle>
+    <IsCityCollege>false</IsCityCollege>
+    <SyllabusInstructor>渡邊　明敏 [WATANABE AKITOSHI]</SyllabusInstructor>
+    <SyllabusNumberingCode />
+    <SyllabusCategory>言語B</SyllabusCategory>
+    <SyllabusLectureForm>Lecture</SyllabusLectureForm>
+    <SyllabusAssignedYear>３年以上優先</SyllabusAssignedYear>
+    <OffersInQ1>true</OffersInQ1>
+    <OffersInQ2>true</OffersInQ2>
+    <OffersInQ3>false</OffersInQ3>
+    <OffersInQ4>false</OffersInQ4>
+    <SyllabusKeyword>ラテン語
+
+Latin</SyllabusKeyword>
+    <SyllabusTopic>中級ラテン語
+
+Intermediate Latin</SyllabusTopic>
+    <SyllabusObjective>中級レベルのラテン語散文を読む
+
+Intermediate Latin Prose</SyllabusObjective>
+    <SyllabusLearningOutcomes>Aで習得した知識をもとに、比較的易しいラテン語の散文を読む。
+
+Reading intermediate Latin prose.</SyllabusLearningOutcomes>
+    <SyllabusOutline>第1週～第7週　Titus LiviusのAb Urbe ConditaのHannibalについて書かれた部分を講読する。
+第8週～第15週　Caesarの『ガリア戦記』冒頭部分を講読する。</SyllabusOutline>
+    <SyllabusGradingMethod />
+    <RawSyllabusGradingRate>&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;学期末試験/Final exam&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;80&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td width='420' align='left' nowrap&gt;&lt;font size='2'&gt;演習の発表点/Presentation point at seminar&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='120' align='left' nowrap&gt;&lt;font size='2'&gt;20&amp;nbsp;%&lt;/font&gt;&lt;/td&gt;
+		&lt;td width='60' align='left' nowrap&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td colspan='3' align='left'&gt;
+			&lt;table width='600' border='0' cellspacing='0' cellpadding='0'&gt;
+				&lt;tr&gt;
+					&lt;td colspan='3' align='left'&gt;&lt;font size='2'&gt;&amp;nbsp;&lt;/font&gt;&lt;/td&gt;
+				&lt;/tr&gt;
+			&lt;/table&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+		</RawSyllabusGradingRate>
+    <SyllabusTeachingMaterials>プリントを配布する。</SyllabusTeachingMaterials>
+    <SyllabusOthers />
+    <SyllabusConsultationTime>授業終了後質問を受け付ける。</SyllabusConsultationTime>
+    <SyllabusMethodForAdjustingClassSize>抽選/Drawing lots</SyllabusMethodForAdjustingClassSize>
+    <SyllabusSubjectOfOpen>総合教育棟</SyllabusSubjectOfOpen>
+    <SyllabusSpecialNote />
+  </Course>
+</ArrayOfCourse>
